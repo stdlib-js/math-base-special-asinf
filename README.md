@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@deno/mod.js';
+import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@v0.1.1-deno/mod.js';
 ```
 
 #### asinf( x )
@@ -69,7 +69,7 @@ v = asinf( -3.14/6.0 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@deno/mod.js';
+import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@v0.1.1-deno/mod.js';
 
 var x = linspace( -1.0, 1.0, 100 );
 
