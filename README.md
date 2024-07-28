@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@esm/index.mjs';
+import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@v0.1.1-esm/index.mjs';
 ```
 
 #### asinf( x )
@@ -74,7 +74,7 @@ v = asinf( -3.14/6.0 );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@esm/index.mjs';
+import asinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asinf@v0.1.1-esm/index.mjs';
 
 var x = linspace( -1.0, 1.0, 100 );
 
