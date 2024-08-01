@@ -49,11 +49,11 @@
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-linspace": "^0.2.1",
+    "@stdlib/array-base-linspace": "^0.2.2",
     "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/fs-read-file": "^0.2.2",
     "@stdlib/fs-write-file": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.1",
+    "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/math-base-tools-evalpoly-compile": "^0.3.0",
     "@stdlib/math-base-tools-evalpoly-compile-c": "^0.1.1",
     "@stdlib/random-base-randu": "^0.2.1",
