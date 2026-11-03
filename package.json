@@ -51,7 +51,7 @@
   "devDependencies": {
     "@stdlib/assert-is-negative-zero": "^0.2.3",
     "@stdlib/assert-is-positive-zero": "^0.2.3",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/constants-float32-eps": "^0.2.3",
     "@stdlib/fs-read-file": "^0.2.3",
     "@stdlib/fs-write-file": "^0.2.3",
